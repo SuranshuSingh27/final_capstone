@@ -1,0 +1,25 @@
+{
+  "n_folds": 5,
+  "seed": 42,
+  "rgb_size": [
+    224,
+    224
+  ],
+  "msi_size": [
+    128,
+    128
+  ],
+  "n_bands": 16,
+  "n_classes": 2,
+  "class_names": {
+    "0": "Non-Cancer",
+    "1": "Cancer (OSCC)"
+  },
+  "class_weights": [
+    0.6423611044883728,
+    2.2560975551605225
+  ],
+  "total_images": 185,
+  "cancer_images": 41,
+  "noncancer_images": 144
+}

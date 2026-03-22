@@ -1,0 +1,38 @@
+image_id,patient_id,binary_label,diag_raw,gender,age_range,smoking,hdr_path,rgb_path,mask_path,has_hdr,has_rgb,has_mask
+15,P005,0,Leukoplakia,Male,36-40,Yes,data/MODID/processed/15.hdr,data/MODID/rgb/15.png,data/MODID/mask/15.png,True,True,True
+16,P005,0,Leukoplakia,Male,36-40,Yes,data/MODID/processed/16.hdr,data/MODID/rgb/16.png,data/MODID/mask/16.png,True,True,True
+17,P005,0,Leukoplakia,Male,36-40,Yes,data/MODID/processed/17.hdr,data/MODID/rgb/17.png,data/MODID/mask/17.png,True,True,True
+18,P005,0,Leukoplakia,Male,36-40,Yes,data/MODID/processed/18.hdr,data/MODID/rgb/18.png,data/MODID/mask/18.png,True,True,True
+19,P005,0,Leukoplakia,Male,36-40,Yes,data/MODID/processed/19.hdr,data/MODID/rgb/19.png,data/MODID/mask/19.png,True,True,True
+27,P010,1,OSCC,Male,51-55,Yes,data/MODID/processed/27.hdr,data/MODID/rgb/27.png,data/MODID/mask/27.png,True,True,True
+29,P010,1,OSCC,Male,51-55,Yes,data/MODID/processed/29.hdr,data/MODID/rgb/29.png,data/MODID/mask/29.png,True,True,True
+31,P011,0,OSMF,Male,36-40,No,data/MODID/processed/31.hdr,data/MODID/rgb/31.png,data/MODID/mask/31.png,True,True,True
+36,P014,0,keratosis,Male,51-55,Yes,data/MODID/processed/36.hdr,data/MODID/rgb/36.png,data/MODID/mask/36.png,True,True,True
+37,P014,0,keratosis,Male,51-55,Yes,data/MODID/processed/37.hdr,data/MODID/rgb/37.png,data/MODID/mask/37.png,True,True,True
+38,P014,0,keratosis,Male,51-55,Yes,data/MODID/processed/38.hdr,data/MODID/rgb/38.png,data/MODID/mask/38.png,True,True,True
+49,P019,1,OSCC,Male,51-55,Yes,data/MODID/processed/49.hdr,data/MODID/rgb/49.png,data/MODID/mask/49.png,True,True,True
+60,P023,0,Normal,Male,56-60,Yes,data/MODID/processed/60.hdr,data/MODID/rgb/60.png,data/MODID/mask/60.png,True,True,True
+61,P023,0,Normal,Male,56-60,Yes,data/MODID/processed/61.hdr,data/MODID/rgb/61.png,data/MODID/mask/61.png,True,True,True
+65,P026,0,OSMF,Male,51-55,Yes,data/MODID/processed/65.hdr,data/MODID/rgb/65.png,data/MODID/mask/65.png,True,True,True
+66,P026,0,OSMF,Male,51-55,Yes,data/MODID/processed/66.hdr,data/MODID/rgb/66.png,data/MODID/mask/66.png,True,True,True
+67,P027,1,OSCC,Male,56-60,Yes,data/MODID/processed/67.hdr,data/MODID/rgb/67.png,data/MODID/mask/67.png,True,True,True
+68,P027,1,OSCC,Male,56-60,Yes,data/MODID/processed/68.hdr,data/MODID/rgb/68.png,data/MODID/mask/68.png,True,True,True
+69,P027,1,OSCC,Male,56-60,Yes,data/MODID/processed/69.hdr,data/MODID/rgb/69.png,data/MODID/mask/69.png,True,True,True
+70,P027,1,OSCC,Male,56-60,Yes,data/MODID/processed/70.hdr,data/MODID/rgb/70.png,data/MODID/mask/70.png,True,True,True
+72,P029,0,keratosis,Male,46-50,Yes,data/MODID/processed/72.hdr,data/MODID/rgb/72.png,data/MODID/mask/72.png,True,True,True
+73,P029,0,keratosis,Male,46-50,Yes,data/MODID/processed/73.hdr,data/MODID/rgb/73.png,data/MODID/mask/73.png,True,True,True
+74,P029,0,keratosis,Male,46-50,Yes,data/MODID/processed/74.hdr,data/MODID/rgb/74.png,data/MODID/mask/74.png,True,True,True
+75,P029,0,keratosis,Male,46-50,Yes,data/MODID/processed/75.hdr,data/MODID/rgb/75.png,data/MODID/mask/75.png,True,True,True
+97,P036,0,OSMF,Male,36-40,Yes,data/MODID/processed/97.hdr,data/MODID/rgb/97.png,data/MODID/mask/97.png,True,True,True
+98,P036,0,OSMF,Male,36-40,Yes,data/MODID/processed/98.hdr,data/MODID/rgb/98.png,data/MODID/mask/98.png,True,True,True
+167,P058,1,OSCC,Male,31-35,Yes ,data/MODID/processed/167.hdr,data/MODID/rgb/167.png,data/MODID/mask/167.png,True,True,True
+170,P060,0,OSMF,Male,31-35,Yes,data/MODID/processed/170.hdr,data/MODID/rgb/170.png,data/MODID/mask/170.png,True,True,True
+171,P060,0,OSMF,Male,31-35,Yes,data/MODID/processed/171.hdr,data/MODID/rgb/171.png,data/MODID/mask/171.png,True,True,True
+179,P063,0,OSMF,Male,25-30,Yes,data/MODID/processed/179.hdr,data/MODID/rgb/179.png,data/MODID/mask/179.png,True,True,True
+180,P063,0,OSMF,Male,25-30,Yes,data/MODID/processed/180.hdr,data/MODID/rgb/180.png,data/MODID/mask/180.png,True,True,True
+181,P063,0,OSMF,Male,25-30,Yes,data/MODID/processed/181.hdr,data/MODID/rgb/181.png,data/MODID/mask/181.png,True,True,True
+196,P071,1,OSCC,Male,36-40,Yes,data/MODID/processed/196.hdr,data/MODID/rgb/196.png,data/MODID/mask/196.png,True,True,True
+204,P077,0,Leukoplakia,Male,41-45,Ex Smoking for more than 1 year,data/MODID/processed/204.hdr,data/MODID/rgb/204.png,data/MODID/mask/204.png,True,True,True
+213,P082,0,OSMF,Male,41-45,Ex Smoking for more than 1 year,data/MODID/processed/213.hdr,data/MODID/rgb/213.png,data/MODID/mask/213.png,True,True,True
+229,P092,0,Healthy,Male,21-25,No,data/MODID/processed/229.hdr,data/MODID/rgb/229.png,data/MODID/mask/229.png,True,True,True
+230,P092,0,Healthy,Male,21-25,No,data/MODID/processed/230.hdr,data/MODID/rgb/230.png,data/MODID/mask/230.png,True,True,True
